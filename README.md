@@ -1,0 +1,4 @@
+- Reads Suricata logs (fast.log & eve.json)
+- Monitors logs live for security alerts
+- Runs suricata-update every 24 hours
+- Restarts Suricata if needed
